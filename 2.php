@@ -18,8 +18,7 @@ class Add extends Operation {
 
     public function getValue($num1, $num2) {
         return $num1 + $num2;
-    }
-
+  }
 }
 
 class Sub extends Operation {
